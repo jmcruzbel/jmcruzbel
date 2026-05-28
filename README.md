@@ -15,16 +15,16 @@
 
 ---
 
-## 👤 &nbsp;Sobre mí
+## &nbsp;Sobre mí
 
 <img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnaue8r32&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b9cb0&langs_count=6&hide=html,css"/>
 
 Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasiona aplicar **Clean Architecture**, **Domain-Driven Design** y prácticas modernas de **DevOps** en cada proyecto.
 
-- 🏗️ &nbsp;Arquitecturas: **DDD · Hexagonal · Layered**
-- 🔐 &nbsp;Seguridad: **JWT · RBAC**
-- 🚀 &nbsp;CI/CD: **GitHub Actions · SonarCloud · Docker**
-- 🌎 &nbsp;Idiomas: Español nativo · A2+
+- &nbsp;Arquitecturas: **DDD · Hexagonal · Layered**
+- &nbsp;Seguridad: **JWT · RBAC**
+- &nbsp;CI/CD: **GitHub Actions · SonarCloud · Docker**
+- &nbsp;Idiomas: Español nativo · B1+
 
 <br clear="right"/>
 
@@ -42,7 +42,7 @@ Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasion
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### 🖥️ Frontend & Mobile
+### Frontend & Mobile
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -51,7 +51,7 @@ Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasion
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Bases de Datos & Cache
+### Bases de Datos & Cache
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -59,7 +59,7 @@ Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasion
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🚀 DevOps & Cloud
+### DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -69,7 +69,7 @@ Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasion
 
 ---
 
-## 🏗️ &nbsp;Arquitectura & Principios
+## &nbsp;Arquitectura & Principios
 
 <div align="center">
 
