@@ -1,15 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Juan%20Manuel%20Cruz%20Beltr%C3%A1n&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Software%20Developer%20%F0%9F%87%A8%F0%9F%87%B7&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0A4D8C,100:38BDF8&height=220&section=header&text=Juan%20Manuel%20Cruz%20Beltr%C3%A1n&fontSize=46&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Software%20Developer%20%F0%9F%87%A8%F0%9F%87%B7&descAlignY=60&descSize=20&animation=fadeIn"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=15&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+FastAPI+%E2%80%A2+React;Clean+Architecture+%E2%80%A2+DDD+%E2%80%A2+Hexagonal;Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+SonarCloud+%E2%80%A2+Redis;Construyendo+sistemas+que+escalan+%E2%86%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=15&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+FastAPI+%E2%80%A2+React;Clean+Architecture+%E2%80%A2+DDD+%E2%80%A2+Hexagonal;Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+SonarCloud+%E2%80%A2+Redis;Construyendo+sistemas+que+escalan+%E2%86%97)](https://git.io/typing-svg)
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mnaue8r32-181717?style=for-the-badge&logo=github)](https://github.com/Mnaue8r32)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--manuel--cruz--beltran-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jmcruz-bel/)
-[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuel.cruzbel@gmail.com)
-[![Status](https://img.shields.io/badge/🟢_Disponible-para_nuevas_oportunidades-00d97e?style=for-the-badge)](https://www.linkedin.com/in/jmcruz-bel/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mnaue8r32-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mnaue8r32)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--manuel--cruz--beltran-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmcruz-bel/)
+[![Email](https://img.shields.io/badge/Email-Contacto-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuel.cruzbel@gmail.com)
+[![Status](https://img.shields.io/badge/Disponible-para_nuevas_oportunidades-0EA5E9?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/jmcruz-bel/)
 
 </div>
 
@@ -17,14 +17,12 @@
 
 ## &nbsp;Sobre mí
 
-<img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnaue8r32&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b9cb0&langs_count=6&hide=html,css"/>
-
-Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasiona aplicar **Clean Architecture**, **Domain-Driven Design** y prácticas modernas de **DevOps** en cada proyecto.
+Soy **Full Stack Developer** y me gusta construir sistemas robustos, escalables y mantenibles. Me apasiona aplicar **Clean Architecture**, **Domain-Driven Design** y prácticas modernas de **DevOps** en cada proyecto.
 
 - &nbsp;Arquitecturas: **DDD · Hexagonal · Layered**
-- &nbsp;Seguridad: **JWT · RBAC**
+- &nbsp;Seguridad: **JWT · RBAC · OAuth2 · 2FA**
 - &nbsp;CI/CD: **GitHub Actions · SonarCloud · Docker**
-- &nbsp;Idiomas: Español nativo · B1+
+- &nbsp;Idiomas: **Español nativo · Inglés B1+**
 
 <br clear="right"/>
 
@@ -32,7 +30,7 @@ Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasion
 
 <div align="center">
 
-### ⚙️ Backend
+### Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -71,29 +69,30 @@ Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasion
 
 ## &nbsp;Arquitectura & Principios
 
+## &nbsp;Arquitectura & Principios
+
 <div align="center">
 
 <br/>
 
-![](https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge&labelColor=0d1117&color=00d9ff&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTVMMTIgMnpNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUiLz48L3N2Zz4=)
-![](https://img.shields.io/badge/Layered_%26_Hexagonal-00d9ff?style=for-the-badge&labelColor=00d9ff&color=00d9ff)
+![](https://img.shields.io/badge/Clean_Architecture-0D1117?style=for-the-badge&labelColor=0D1117&color=00B4D8)
+![](https://img.shields.io/badge/Layered_%26_Hexagonal-0077B6?style=for-the-badge&labelColor=0077B6&color=00B4D8)
 
-![](https://img.shields.io/badge/Domain_Driven_Design-0d1117?style=for-the-badge&labelColor=0d1117&color=7b61ff)
-![](https://img.shields.io/badge/Value_Objects_%7C_UseCases_%7C_Aggregates-7b61ff?style=for-the-badge&labelColor=7b61ff&color=7b61ff)
+![](https://img.shields.io/badge/Domain_Driven_Design-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED)
+![](https://img.shields.io/badge/Value_Objects_%7C_UseCases_%7C_Aggregates-5B21B6?style=for-the-badge&labelColor=5B21B6&color=8B5CF6)
 
-![](https://img.shields.io/badge/SOLID_Principles-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff88)
-![](https://img.shields.io/badge/Clean_Code_%7C_Daily_Practice-00ff88?style=for-the-badge&labelColor=00ff88&color=00ff88)
+![](https://img.shields.io/badge/SOLID_Principles-0D1117?style=for-the-badge&labelColor=0D1117&color=059669)
+![](https://img.shields.io/badge/Clean_Code_%7C_Daily_Practice-047857?style=for-the-badge&labelColor=047857&color=10B981)
 
-![](https://img.shields.io/badge/Security-0d1117?style=for-the-badge&labelColor=0d1117&color=ff8c42)
-![](https://img.shields.io/badge/JWT%20%7C%20RBAC%20%7C%20OAuth2-ff8c42?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Security-0D1117?style=for-the-badge&labelColor=0D1117&color=F59E0B)
+![](https://img.shields.io/badge/JWT%20%7C%20RBAC%20%7C%20OAuth2%20%7C%202FA-B45309?style=for-the-badge&labelColor=B45309&color=F59E0B)
 
-![](https://img.shields.io/badge/CI%2FCD-0d1117?style=for-the-badge&labelColor=0d1117&color=ff4d6a)
-![](https://img.shields.io/badge/GitHub_Actions_%2B_SonarCloud-ff4d6a?style=for-the-badge&labelColor=ff4d6a&color=ff4d6a)
+![](https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&labelColor=0D1117&color=EF4444)
+![](https://img.shields.io/badge/GitHub_Actions_%2B_SonarCloud-B91C1C?style=for-the-badge&labelColor=B91C1C&color=EF4444)
 
 <br/>
 
 </div>
-
 ---
 
 <div align="center">
@@ -102,8 +101,8 @@ Soy **Full Stack** me gusta construir sistemas robustos y escalables. Me apasion
 
 <br/>
 
-![Views](https://komarev.com/ghpvc/?username=Mnaue8r32&color=00d9ff&style=flat-square&label=profile+views)
+![Views](https://komarev.com/ghpvc/?username=Mnaue8r32&color=2563EB&style=flat-square&label=profile+views)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0A4D8C,100:38BDF8&height=120&section=footer&animation=fadeIn"/>
