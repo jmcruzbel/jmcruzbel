@@ -93,10 +93,6 @@ la automatización mediante CI/CD y la construcción de soluciones escalables.
   
 *Desarrollo soluciones con arquitectura sólida, código mantenible y visión de crecimiento sostenible.*
 
-<br/>
-
-![Views](https://komarev.com/ghpvc/?username=Mnaue8r32&color=2563EB&style=flat-square&label=profile+views)
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0A4D8C,100:38BDF8&height=120&section=footer&animation=fadeIn"/>
