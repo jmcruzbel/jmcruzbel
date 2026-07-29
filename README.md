@@ -47,31 +47,29 @@ Me apasionan la arquitectura de software, el código limpio y el desarrollo de s
 </div>
 
 ---
-## Proyectos destacados
-
-### POS JMS
-
-Sistema POS multiempresa desarrollado con **Java y Spring Boot**, orientado a modularidad, seguridad y aislamiento de datos.
-
-### Zybus
-
-Plataforma para la gestión y comercialización de servicios de transporte, compuesta por backend, aplicaciones web y aplicaciones móviles.
-
-### OrdenaYa
-
-Sistema para la gestión de restaurantes con aplicaciones web y móvil, autenticación, manejo de órdenes y funcionalidades en tiempo real.
-
----
 
 ## Contacto
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/jmcruz-bel">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
   </a>
 
   <a href="https://manuel-cruz-dev.netlify.app/">
-    <img src="https://img.shields.io/badge/Portafolio-7C3AED?style=for-the-badge" alt="Portafolio">
+    <img
+      src="https://img.shields.io/badge/Portafolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portafolio"
+    >
+  </a>
+
+  <a href="mailto:manuel.cruzbel@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Correo electrónico"
+    >
   </a>
 </p>
 
