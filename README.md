@@ -6,7 +6,7 @@
 
 Soy desarrollador **Full Stack** con especialización en backend, orientado a la construcción de sistemas con **Java, Spring Boot, Python y FastAPI**.
 
-Me apasionan la arquitectura de software, el código limpio y el desarrollo de soluciones seguras, eficientes, modulares y mantenibles. Actualmente estoy ampliando mi experiencia con **Odoo 19**, su ORM y **OWL**
+Me apasionan la arquitectura de software, el código limpio y el desarrollo de soluciones seguras, eficientes, modulares y mantenibles. Actualmente también trabajo con tecnologías como **React, TypeScript y Odoo 19**.
 
 <br clear="right"/>
 
@@ -30,10 +30,10 @@ Me apasionan la arquitectura de software, el código limpio y el desarrollo de s
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/OWL-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="OWL">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </p>
 
-### Datos e infraestructura
+### Datos, infraestructura y calidad
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -41,8 +41,8 @@ Me apasionan la arquitectura de software, el código limpio y el desarrollo de s
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
 </p>
-
 
 </div>
 
