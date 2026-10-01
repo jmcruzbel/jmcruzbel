@@ -9,11 +9,21 @@
 
 ## Sobre mí
 
-<img
-  src="./assets/about.svg"
-  width="760"
-  alt="Sobre mí"
-/>
+## Sobre mí
+
+<div style="max-width: 900px;">
+
+Soy desarrollador <b>Full Stack</b> con especialización en backend, orientado a la construcción de sistemas con <b>Java, Spring Boot, Python y FastAPI</b>.
+
+<br><br>
+
+Me apasionan la <b>arquitectura de software</b>, el <b>código limpio</b> y el desarrollo de soluciones seguras, eficientes, modulares y mantenibles.
+
+<br><br>
+
+Actualmente también trabajo con tecnologías como <b>React, React Native, FastAPI, Vue.js y Odoo 19</b>.
+
+</div>
 
 <br>
 
