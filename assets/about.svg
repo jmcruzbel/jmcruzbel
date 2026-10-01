@@ -1,46 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="760"
+  height="205"
+  viewBox="0 0 760 205"
+>
   <style>
-    .txt {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      font-size: 24px;
+    .text {
+      font-family: Verdana, Geneva, sans-serif;
+      font-size: 16px;
+      font-weight: 400;
       fill: #c9d1d9;
     }
 
-    .bold {
+    .strong {
       font-weight: 700;
-      fill: #ffffff;
+      fill: #f0f6fc;
     }
 
     @media (prefers-color-scheme: light) {
-      .txt {
-        fill: #24292f;
+      .text {
+        fill: #57606a;
       }
 
-      .bold {
-        fill: #111827;
+      .strong {
+        fill: #24292f;
       }
     }
   </style>
 
-  <text x="0" y="38" class="txt">
-    <tspan x="0" dy="0">
-      Soy desarrollador <tspan class="bold">Full Stack</tspan> con especialización en backend, orientado a la
-    </tspan>
-    <tspan x="0" dy="38">
-      construcción de sistemas con <tspan class="bold">Java, Spring Boot, Python y FastAPI</tspan>.
-    </tspan>
+  <text class="text" x="0" y="24">
+    Soy desarrollador
+    <tspan class="strong"> Full Stack</tspan>
+    con especialización en backend, orientado a la
+  </text>
 
-    <tspan x="0" dy="52">
-      Me apasionan la <tspan class="bold">arquitectura de software</tspan>, el
-      <tspan class="bold"> código limpio</tspan> y el desarrollo de soluciones
-    </tspan>
-    <tspan x="0" dy="38">
-      seguras, eficientes, modulares y mantenibles.
-    </tspan>
+  <text class="text" x="0" y="50">
+    construcción de sistemas con
+    <tspan class="strong"> Java, Spring Boot, Python y FastAPI</tspan>.
+  </text>
 
-    <tspan x="0" dy="52">
-      Actualmente también trabajo con tecnologías como
-      <tspan class="bold"> React, React Native, FastAPI, Vue.js y Odoo 19</tspan>.
-    </tspan>
+  <text class="text" x="0" y="94">
+    Me apasionan la
+    <tspan class="strong"> arquitectura de software</tspan>,
+    el
+    <tspan class="strong"> código limpio</tspan>
+    y el desarrollo de soluciones
+  </text>
+
+  <text class="text" x="0" y="120">
+    seguras, eficientes, modulares y mantenibles.
+  </text>
+
+  <text class="text" x="0" y="164">
+    Actualmente también trabajo con tecnologías como
+    <tspan class="strong"> React, React Native,</tspan>
+  </text>
+
+  <text class="text" x="0" y="190">
+    <tspan class="strong">FastAPI, Vue.js y Odoo 19</tspan>.
   </text>
 </svg>

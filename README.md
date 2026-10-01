@@ -11,7 +11,7 @@
 
 <img
   src="./assets/about.svg"
-  width="100%"
+  width="760"
   alt="Sobre mí"
 />
 
