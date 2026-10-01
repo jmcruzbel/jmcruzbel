@@ -22,33 +22,53 @@ También desarrollo soluciones con **React, React Native, Vue.js y Odoo 19**, cu
 
 ## Stack tecnológico
 
-<table align="center" width="100%">
+<table width="1000" align="center">
   <tr>
-    <td align="center" width="50%" valign="top">
-      <h4>Backend</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" alt="Backend" />
-      </a>
+    <td width="500" align="center" valign="top">
+      <br>
+      <h3>Backend</h3>
+      <br>
+      <img
+        width="450"
+        src="https://skillicons.dev/icons?i=java,spring,python,fastapi"
+        alt="Backend"
+      />
+      <br><br>
     </td>
-    <td align="center" width="50%" valign="top">
-      <h4>Frontend</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,react,vue,html" alt="Frontend" />
-      </a>
+    <td width="500" align="center" valign="top">
+      <br>
+      <h3>Frontend</h3>
+      <br>
+      <img
+        width="450"
+        src="https://skillicons.dev/icons?i=ts,react,vue,html"
+        alt="Frontend"
+      />
+      <br><br>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" valign="top">
-      <h4>Bases de Datos</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Bases de Datos" />
-      </a>
+    <td width="500" align="center" valign="top">
+      <br>
+      <h3>Bases de Datos</h3>
+      <br>
+      <img
+        width="380"
+        src="https://skillicons.dev/icons?i=postgres,mysql,redis"
+        alt="Bases de Datos"
+      />
+      <br><br>
     </td>
-    <td align="center" width="50%" valign="top">
-      <h4>Infraestructura y Calidad</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" alt="Infraestructura y Calidad" />
-      </a>
+    <td width="500" align="center" valign="top">
+      <br>
+      <h3>Infraestructura y Calidad</h3>
+      <br>
+      <img
+        width="450"
+        src="https://skillicons.dev/icons?i=docker,git,githubactions,linux"
+        alt="Infraestructura y Calidad"
+      />
+      <br><br>
     </td>
   </tr>
 </table>
