@@ -1,14 +1,13 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  width="760"
-  height="275"
-  viewBox="0 0 760 275"
-  preserveAspectRatio="xMinYMin meet"
+  width="1000"
+  height="170"
+  viewBox="0 0 1000 170"
 >
   <style>
     .text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-      font-size: 21px;
+      font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 18px;
       font-weight: 400;
       fill: #c9d1d9;
     }
@@ -30,46 +29,32 @@
   </style>
 
   <!-- Párrafo 1 -->
-
-  <text x="0" y="28" class="text">
+  <text x="0" y="25" class="text">
     Soy desarrollador
     <tspan class="strong"> Full Stack</tspan>
-    con especialización en backend,
+    con especialización en backend, orientado a la construcción de sistemas con
   </text>
 
-  <text x="0" y="58" class="text">
-    orientado a la construcción de sistemas con
-  </text>
-
-  <text x="0" y="88" class="text">
+  <text x="0" y="49" class="text">
     <tspan class="strong">Java, Spring Boot, Python y FastAPI</tspan>.
   </text>
 
   <!-- Párrafo 2 -->
-
-  <text x="0" y="133" class="text">
+  <text x="0" y="91" class="text">
     Me apasionan la
     <tspan class="strong"> arquitectura de software</tspan>,
     el
     <tspan class="strong"> código limpio</tspan>
-  </text>
-
-  <text x="0" y="163" class="text">
     y el desarrollo de soluciones seguras, eficientes,
   </text>
 
-  <text x="0" y="193" class="text">
+  <text x="0" y="115" class="text">
     modulares y mantenibles.
   </text>
 
   <!-- Párrafo 3 -->
-
-  <text x="0" y="238" class="text">
+  <text x="0" y="157" class="text">
     Actualmente también trabajo con tecnologías como
-    <tspan class="strong"> React,</tspan>
-  </text>
-
-  <text x="0" y="268" class="text">
-    <tspan class="strong">React Native, FastAPI, Vue.js y Odoo 19</tspan>.
+    <tspan class="strong"> React, React Native, FastAPI, Vue.js y Odoo 19</tspan>.
   </text>
 </svg>
