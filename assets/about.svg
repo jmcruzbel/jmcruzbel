@@ -1,0 +1,49 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1000"
+  height="145"
+  viewBox="0 0 1000 145"
+>
+  <style>
+    text {
+      font-family: "Trebuchet MS", Arial, sans-serif;
+      font-size: 16px;
+      fill: #c9d1d9;
+    }
+
+    .bold {
+      font-weight: 700;
+      fill: #ffffff;
+    }
+
+    @media (prefers-color-scheme: light) {
+      text {
+        fill: #24292f;
+      }
+
+      .bold {
+        fill: #111827;
+      }
+    }
+  </style>
+
+  <text x="0" y="25">
+    Soy desarrollador
+    <tspan class="bold"> Full Stack</tspan>
+    con especialización en backend, orientado a la construcción de sistemas con
+    <tspan class="bold"> Java, Spring Boot, Python y FastAPI</tspan>.
+  </text>
+
+  <text x="0" y="70">
+    Me apasionan la
+    <tspan class="bold"> arquitectura de software</tspan>,
+    el
+    <tspan class="bold"> código limpio</tspan>
+    y el desarrollo de soluciones seguras, eficientes, modulares y mantenibles.
+  </text>
+
+  <text x="0" y="115">
+    Actualmente también trabajo con tecnologías como
+    <tspan class="bold"> React, React Native, FastAPI, Vue.js y Odoo 19</tspan>.
+  </text>
+</svg>
