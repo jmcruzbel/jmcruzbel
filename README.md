@@ -119,10 +119,18 @@ También desarrollo soluciones con **React, React Native, Vue.js y Odoo 19**, cu
 <br><br>
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"    
+    width="80"
+    height=30">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"
+    width="80"
+    height=30">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"
+    width="110"
+    height=30">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube"
+    width="80"
+    height=30">
 </p>
 
 <br><br>
@@ -141,31 +149,34 @@ También desarrollo soluciones con **React, React Native, Vue.js y Odoo 19**, cu
 
 ## Contacto
 
-<br>
-
 <a href="https://www.linkedin.com/in/jmcruz-bel">
   <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
     alt="LinkedIn"
+    width="100"
+    height="30"
   />
 </a>
-
+&nbsp;
 <a href="https://manuel-cruz-dev.netlify.app/">
   <img
-    src="https://img.shields.io/badge/Portafolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
+    src="https://img.shields.io/badge/Portafolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"
     alt="Portafolio"
+    width="100"
+    height="30"
   />
 </a>
-
+&nbsp;
 <a href="mailto:manuel.cruzbel@gmail.com">
   <img
-    src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Correo-EA4335?style=flat-square&logo=gmail&logoColor=white"
     alt="Correo electrónico"
+    width="100"
+    height=30"
   />
 </a>
 
 </div>
-
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0A4D8C,100:38BDF8&height=120&section=footer&animation=fadeIn"
