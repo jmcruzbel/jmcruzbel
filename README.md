@@ -88,7 +88,7 @@ También desarrollo soluciones con **React, React Native, Vue.js y Odoo 19**, cu
 <br>
 
 <img
-  width="340"
+  width="380"
   src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=3"
   alt="PostgreSQL, MySQL, Redis"
 />
@@ -111,7 +111,7 @@ También desarrollo soluciones con **React, React Native, Vue.js y Odoo 19**, cu
 <br>
 
 <img
-  width="450"
+  width="500"
   src="https://skillicons.dev/icons?i=docker,git,githubactions,linux&perline=4"
   alt="Docker, Git, GitHub Actions, Linux"
 />
