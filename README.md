@@ -16,9 +16,9 @@
 
 Desarrollador **Full Stack** especializado en **backend**, **arquitectura de software** y construcción de **aplicaciones escalables**.
 
-- **Backend:** Java + Spring Boot y Python + FastAPI.
+- **Backend:** Java + Spring Boot o Python + FastAPI.
 - **Cómo trabajo:** arquitectura limpia, modularidad, seguridad y mantenibilidad.
-- **Frontend y móvil:** React, React Native y Vue.js.
+- **Web y móvil:** Vue.js y React en web, React Native en móvil.
 - **ERP:** desarrollo de soluciones con Odoo 19.
 - **Alcance:** desde APIs y servicios backend hasta la integración de aplicaciones completas.
 
@@ -41,13 +41,15 @@ Desarrollador **Full Stack** especializado en **backend**, **arquitectura de sof
     </td>
     <td width="50%" align="center" valign="top">
       <br>
-      <h3>Frontend</h3>
+      <h3>Web y Móvil</h3>
       <br>
       <img
-        width="380"
-        src="https://skillicons.dev/icons?i=ts,react,vue,html"
-        alt="TypeScript, React, Vue.js, HTML"
+        width="285"
+        src="https://skillicons.dev/icons?i=vue,react,ts"
+        alt="Vue.js, React, TypeScript"
       />
+      <br>
+      <sub>React Native en móvil</sub>
       <br><br>
     </td>
   </tr>
@@ -58,8 +60,8 @@ Desarrollador **Full Stack** especializado en **backend**, **arquitectura de sof
       <br>
       <img
         width="285"
-        src="https://skillicons.dev/icons?i=postgres,mysql,redis"
-        alt="PostgreSQL, MySQL, Redis"
+        src="https://skillicons.dev/icons?i=postgres,redis,mysql"
+        alt="PostgreSQL, Redis, MySQL"
       />
       <br><br>
     </td>
@@ -68,9 +70,9 @@ Desarrollador **Full Stack** especializado en **backend**, **arquitectura de sof
       <h3>DevOps y Herramientas</h3>
       <br>
       <img
-        width="380"
-        src="https://skillicons.dev/icons?i=docker,git,githubactions,linux"
-        alt="Docker, Git, GitHub Actions, Linux"
+        width="285"
+        src="https://skillicons.dev/icons?i=docker,githubactions,linux"
+        alt="Docker, GitHub Actions, Linux"
       />
       <br><br>
     </td>
